@@ -1,0 +1,15 @@
+src/GiriCensor/GiriCensor.cs
+src/GiriCensor/GiriCensorMain.cs
+src/GiriCensor/GiriCensorSubComponent.cs
+src/common/Panel/Panel.cs
+src/common/Panel/PanelComponent.cs
+src/common/Panel/PanelManager.cs
+src/common/SubComponent/SubComponentI.cs
+src/common/SubComponent/SubComponent.cs
+src/common/SubComponent/SubComponentManager.cs
+src/common/Util/AssetLodingManager.cs
+src/common/Util/Log.cs
+src/common/Util/Util.cs
+src/common/VaMPlugin/MainBase.cs
+src/common/VaMPlugin/VaMPluginI.cs
+src/common/VaMPlugin/VaMUtil.cs
